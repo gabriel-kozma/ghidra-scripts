@@ -1,2 +1,2 @@
 # ghidra-scripts
-Ghidra scripts for mevd reverse engineering
+Ghidra scripts for bosch ecus reverse engineering
